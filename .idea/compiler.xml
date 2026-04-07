@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ListaOO1ContaBancaria" />
+        <module name="ListaOO1Pessoa" />
+        <module name="ListaOO1Funcionario" />
         <module name="ListaOO1Carro" />
+        <module name="ListaOO1Livro" />
+        <module name="ListaOO1ContaBancaria" />
+        <module name="ListaOO1Produto" />
       </profile>
     </annotationProcessing>
   </component>

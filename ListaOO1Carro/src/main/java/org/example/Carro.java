@@ -1,3 +1,5 @@
+package org.example;
+
 public class Carro {
     private String marca;
     private String modelo;

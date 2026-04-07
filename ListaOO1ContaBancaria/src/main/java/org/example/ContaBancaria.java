@@ -2,7 +2,7 @@ package org.example;
 
 public class ContaBancaria {
     private String titular;
-    private int numero_conta;
+    private String numero_conta;
     private double saldo;
 
     public String getTitular() {
@@ -13,11 +13,11 @@ public class ContaBancaria {
         this.titular = titular;
     }
 
-    public int getNumero_conta() {
+    public String getNumero_conta() {
         return numero_conta;
     }
 
-    public void setNumero_conta(int numero_conta) {
+    public void setNumero_conta(String numero_conta) {
         this.numero_conta = numero_conta;
     }
 
